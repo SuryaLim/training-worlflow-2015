@@ -1,2 +1,5 @@
 # Penggunaan #
 ## ABCDE ##
+## FGHIJK ##
+
+
